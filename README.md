@@ -1,4 +1,3 @@
-# ECM2423_AI_and_Applications_Maze_Solver_Coursework
 # ECM3412 Ant Colony Optimisation Algorithm to Solve the Travelling Salesperson Problem
 
 ## Introduction
