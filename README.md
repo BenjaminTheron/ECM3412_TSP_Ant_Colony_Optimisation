@@ -33,6 +33,10 @@ After execution, each algorithm will output the best fitness found by the algori
 performance metrics such as the average path length for a given iteration can be printed out (print the average_length variable, which
 can be found via ctrl-f)
 
+To alter the parameters used in the each of the algorithms, change the value of the arguments passed to the calling algorithm function
+from the main execution method. Note these have a profound impact on the performance of the algorithm, especially the pheromone evaporation
+rate. Consider consulting the report before doing so.
+
 To add new datasets to execute the algorithm on, first ensure they conform to the same strucure as the existing two datasets. Then
 place them into the docs folder in the project directory and follow the exact steps provided above for the respective algorithm.
 
